@@ -2,7 +2,8 @@
 GWT Numeral
 ===========
 
-A numeral.js clone for GWT
+A numeral.js clone for GWT 
+http://numeraljs.com/
 
 Adding to your project
 =======
